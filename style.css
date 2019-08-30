@@ -1,0 +1,24 @@
+body{
+    margin-top: 50px;
+}
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px auto;
+}
+li{
+    list-style: none;
+    padding: 10px;
+
+}
+img{
+    height: 400px;
+    width: 300px;
+
+}
+#userInput{
+    width: 130px;
+}
+form{
+    width: 30px;
+}
